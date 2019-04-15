@@ -1,0 +1,104 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Shipping Cities (Beta)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-15 23:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: hooks.php:19 requests.php:51
+msgid "Select City"
+msgstr ""
+
+#: hooks.php:33 requests.php:74
+msgid "Select District"
+msgstr ""
+
+#: hooks.php:58
+msgid "City"
+msgstr ""
+
+#: hooks.php:62
+msgid "District"
+msgstr ""
+
+#: requests.php:131
+msgid "Shipping to"
+msgstr ""
+
+#: admin-notices.php:11
+msgid "Woo Shipping Cities requires Woocommerce plugin to be installed"
+msgstr ""
+
+#: admin-notices.php:21
+msgid "All Changes Saved."
+msgstr ""
+
+#: admin-notices.php:27
+msgid "You are not allowed to do anything here."
+msgstr ""
+
+#: admin-notices.php:33
+msgid "Failed to check your user info, please try again!."
+msgstr ""
+
+#: admin-notices.php:39
+msgid "Failed to save data, please try again!."
+msgstr ""
+
+#: woo-shipping-cities.php:38
+msgid "Shipping Cities Fees"
+msgstr ""
+
+#: admin.php:11
+msgid "Woo Shipping Cities Fees"
+msgstr ""
+
+#: admin.php:26 admin.php:94 admin.php:137
+msgid "Select Country"
+msgstr ""
+
+#: admin.php:51 admin.php:109 admin.php:152 admin.php:173
+msgid "City Name"
+msgstr ""
+
+#: admin.php:67 admin.php:114 admin.php:157 admin.php:178 admin.php:190
+msgid "District Name"
+msgstr ""
+
+#: admin.php:71 admin.php:116 admin.php:159 admin.php:180 admin.php:192
+msgid "Additional Fees"
+msgstr ""
+
+#: admin.php:127
+msgid "Submit"
+msgstr ""
+
+#. Name of the plugin
+msgid "Woo Shipping Cities (Beta)"
+msgstr ""
+
+#. Description of the plugin
+msgid "An eCommerce toolkit that helps you set any district shipping fees."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://woocommerce.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ahmad Wael"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://bbioon.com"
+msgstr ""

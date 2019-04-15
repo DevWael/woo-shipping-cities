@@ -1,0 +1,6 @@
+.dw_billing_district_select .optional,
+.dw_billing_city_select .optional {
+  /*disabling (optional) word in new fields labels*/
+  display: none;
+}
+/*# sourceMappingURL=style.css.map */
